@@ -1,19 +1,19 @@
-# Laboratorios de Python
+# Python Laboratory
 
-### Laboratorios de lenguaje Python de propósito general.
+General purpose Python language labs.
 
-En Ubuntu 16.04 LTS ya nos encontramos instalado python.
+In __Ubuntu 18.04 LTS__ we are already installed python.
 
-Para comprobar la versión instalada de python 2 ejecutamos
+To check the installed version of python 2 we run
 
 ```shell
 python --version
-Python 2.7.12
+Python 2.7.15+
 ```
 
-Y para comprobar la versión insalada de python 3 ejecutamos
+And to check the installed version of python 3 we run
 
 ```shell
 python3 --version
-Python 3.5.2
+Python 3.6.8
 ```
