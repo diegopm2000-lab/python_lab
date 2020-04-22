@@ -1,4 +1,5 @@
-#Author: eduar766
+# ping_request.py
+
 from requests import get, exceptions
 
 def check_internet_connection():

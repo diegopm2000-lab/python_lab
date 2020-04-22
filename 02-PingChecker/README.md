@@ -1,25 +1,25 @@
 # Script para hacer ping en python
 
 
-### 1. Instalaciones previas
+### 1. Requirements
 
-Se necesita el módulo pip y requests
+The pip and requests modules are required
 
-Para instalarlo, hay que hacer lo siguiente:
-
-Si no tenemos el pip (gestor de paquetes de python), lo instalamos:
+Installation (only if needed)
 
 ```shell
 $ sudo apt install python-pip
 ```
 
-Y a continuación:
+And then, execute:
 
 ```shell
 $ pip install requests
 ```
 
-### 2. Ejecución
+### 2. Execution
+
+Try the program, executing:
 
 ```shell
 $ python ping_checker.py
